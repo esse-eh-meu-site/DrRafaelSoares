@@ -4,7 +4,6 @@ import { Sparkles } from "lucide-react";
 
 const links = [
   { href: "#servicos", label: "Serviços" },
-  { href: "#diferenciais", label: "Diferenciais" },
   { href: "#depoimentos", label: "Depoimentos" },
   { href: "#contato", label: "Contato" },
 ];
